@@ -19,6 +19,8 @@ After that, to verify the installation open the terminal and digit:
 dotnet --version
 ```
 
+[TOP](#table-of-contents)
+
 ## Install C# and Nuget
 ***
 To install C# on VSC press `CMD+SHIFT+X`(for mac) and search for C#
@@ -28,15 +30,17 @@ Click on Install (if you haven't yet)
 
 Repeat for the `NuGet Package Manager`
 
+[TOP](#table-of-contents)
+
 ## Create a MSTest Project Folder
 ***
-From the terminl digit this
+From the terminal digit this
 
 ```bash
 dotnet new mstest -o FirstSeleniumTest
 ```
 
-The out will be like this
+The output will be like this
 
 ```bash
 The template "MSTest Test Project" was created successfully.
@@ -48,6 +52,8 @@ Restoring /Users/giannifezza/Documents/HelloSeleniumTest/FirstSeleniumTest.cspro
 Restore succeeded.
 ```
 Now, in VSC, open the folder you just created
+
+[TOP](#table-of-contents)
 
 ## Add Selenium WebDriver package to the TestPorject
 ***
