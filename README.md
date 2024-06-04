@@ -5,9 +5,9 @@ Before all you need of [Visual Studio Code](https://code.visualstudio.com/downlo
 
 ## Table of contents
 1. [Install .NET SDK](#install-net-sdk)
-2. [Install C# and Nuget](#install-c#-and-nuget)
-3. [Create a MSTest Project Folder](#create-project-folder)
-4. [Add Selenium WebDriver](#add-selenium-webdriver) package to the TestProject
+2. [Install C# and Nuget](#install-cs-and-nuget)
+3. [Create a MSTest Project Folder](#create-a-mstest-project-folder)
+4. [Add Selenium WebDriver](#add-selenium-webdriver-package-to-the-testporject) package to the TestProject
 
 ## Install .NET SDK
 To install .net SDK click on this link (https://dotnet.microsoft.com/en-us/download/) and follow the instruction
@@ -20,7 +20,7 @@ dotnet --version
 
 [TOP](#table-of-contents)
 
-## Install C# and Nuget
+## Install CS and Nuget
 To install C# on VSC press `CMD+SHIFT+X`(for mac) and search for C#
 
 Click on Install (if you haven't yet)
