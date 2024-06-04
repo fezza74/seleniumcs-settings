@@ -25,7 +25,6 @@ To install C# on VSC press `CMD+SHIFT+X`(for mac) and search for C#
 
 Click on Install (if you haven't yet)
 
-
 Repeat for the `NuGet Package Manager`
 
 [TOP](#table-of-contents)
@@ -60,8 +59,8 @@ Now, in VSC, open the folder you just created
 [TOP](#table-of-contents)
 
 ## Create Project from VSC
-###### ***The `.NET Install Tool`, `C#` and `C# Dev Kit` extensions are required***
-***
+##### ***The `.NET Install Tool`, `C# Dev Kit` extensions are required***
+
 By `.NET Install Tool` you can open the Command Palette and select `.NET:New Project...` and then MSTest Test Project and provide Name and Location for the new project. This will create a new project and directory that uses MSTest as the test libray and configure the test runner (UnitTest1.cs)
 
 `C# Dev Kit` will generate shortcuts (the green play button) on the left side of the class and method definition. You can run the target test cases, selecting the green play button. You can also right-click on it to see more options (like `Debug Test`)
